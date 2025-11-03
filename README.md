@@ -27,6 +27,6 @@ Sou um desenvolvedor apaixonado por pelo front-end, onde posso transformar ideia
 
 <br/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=edu-hsf&show_icons=true&theme=radical" height="250rem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-hsf&layout-compact&langs-count=16&theme=radical" height="250rem">  
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-hsf&show_icons=true&theme=radical" height="200rem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-hsf&layout-compact&langs-count=16&theme=radical" height="200rem">  
 </div>
