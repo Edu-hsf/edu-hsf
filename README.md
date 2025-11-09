@@ -26,11 +26,15 @@ A cada novo dia é uma nova oportunidade para crescer e, no quesito de código, 
   -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="60px" width="70px" align="center"/>
   -
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="60px" width="70px" align="center"/>
+  -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="60px" width="70px" align="center"/>
   -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="60px" width="70px" align="center"/>
   -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="60px" width="70px" align="center"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" height="60px" width="70px" align="center"/>   
+  
+          
 </div>
 
 <br/>
