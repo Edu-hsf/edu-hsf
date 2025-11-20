@@ -10,8 +10,6 @@ A cada novo dia é uma nova oportunidade para crescer e, no quesito de código, 
 <div style="display: flex; flex-wrap: wrap; row-gap: 15px;" width="100%" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60px" width="70px" align="center"/>
   -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60px" width="70px" align="center"/>
-  -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60px" width="70px" align="center"/>
   -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60px" width="70px" align="center"/>
